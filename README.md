@@ -4,14 +4,14 @@
 
 <h2> ¡Hola! Yo soy Víctor. </h2>
 
-<h3> 👨🏻‍💻 & nbsp; Sobre mi </h3>
+<h3> 👨🏻‍💻 &nbsp; Sobre mi </h3>
 
-- 🎓 & nbsp; Licenciado en Ciencias Informáticas por la Universidad Nacional de Asunción.
-- 💼 & nbsp; Trabajando como desarrollador de software en Konecta S.A
-- 🤔 & nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
+- 🎓 &nbsp; Licenciado en Ciencias Informáticas por la Universidad Nacional de Asunción.
+- 💼 &nbsp; Trabajando como desarrollador de software en Konecta S.A
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 - 🌱 Actualmente estoy leyendo sorbe Reactjs y Electronjs
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Herramientas</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
