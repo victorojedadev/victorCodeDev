@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Licenciado en Ciencias Informáticas por la Universidad Nacional de Asunción.
 - 💼 &nbsp; Trabajando como desarrollador de software en Konecta S.A
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
-- 🌱 Actualmente estoy leyendo sorbe Reactjs y Electronjs
+- 🌱 Actualmente estoy leyendo sobre Reactjs y Electronjs
 
 <h3> 🛠 &nbsp;Herramientas</h3>
 
