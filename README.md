@@ -50,6 +50,6 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodeDev&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodeDev&show_icons=true&theme=gotham)
 
 
