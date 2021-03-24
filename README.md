@@ -10,7 +10,7 @@
 <h3> 🛠 &nbsp;Habilidades</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-feb672?style=flat&logo=Java&logoColor=007396)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
   ![Grails](https://img.shields.io/badge/-Grails-feb672?style=flat)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white")
