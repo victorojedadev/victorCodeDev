@@ -28,7 +28,7 @@
   ![rxjs](https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white)
   ![React](https://img.shields.io/badge/-React-1572B6?style=flat&logo=react&logoColor=00c8ff)
 - 🛢 &nbsp;
-  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-007ACC?style=flat&logo=postgresql&logoColor=336791)
+  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-2f3241?style=flat&logo=postgresql&logoColor=336791)
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 - ⚙️ &nbsp;
