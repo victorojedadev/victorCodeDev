@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 - 🌱 Actualmente estoy leyendo sobre ![Electron](https://img.shields.io/badge/-Electron-2f3241?style=flat&logo=electron&logoColor=9feaf9) y ![Flutter](https://img.shields.io/badge/-Flutter-075b9a?style=flat&logo=flutter&logoColor=9feaf9)
 
-<h3> 🛠 &nbsp;Habilidades</h3>
+<h3> 🛠 &nbsp;Habilidades </h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-feb672?style=flat&logo=Java&logoColor=007396)
