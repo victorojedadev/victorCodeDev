@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Licenciado en Ciencias Informáticas por la Universidad Nacional de Asunción.
 - 💼 &nbsp; Trabajando como Desarrollador de Software en Konecta S.A
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
-- 🌱 Actualmente estoy leyendo sobre ![Electron](https://img.shields.io/badge/-Electron-2f3241?style=flat&logo=electron&logoColor=9feaf9) y ![Flutter](https://img.shields.io/badge/-Flutter-075b9a?style=flat&logo=flutter&logoColor=9feaf9)
+- 🌱 &nbsp; Actualmente estoy leyendo sobre ![Electron](https://img.shields.io/badge/-Electron-2f3241?style=flat&logo=electron&logoColor=9feaf9) y ![Flutter](https://img.shields.io/badge/-Flutter-075b9a?style=flat&logo=flutter&logoColor=9feaf9)
 
 <h3> 🛠 &nbsp;Habilidades </h3>
 
